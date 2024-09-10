@@ -1,0 +1,10 @@
+*{
+    color: blue;
+}
+
+h1{
+    color: white;
+    background-color: red;
+    padding: 50px;
+    font-size: 25px;
+}
